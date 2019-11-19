@@ -7,7 +7,7 @@
 ### Breast Cancer Diagnosis Prediction (7).ppt - PowerPoint Presentation file created by Eno Chen and Sherlin Whaley
 
 
-### Breast Cancer Wisconsin in R 2.R - R Studio file with data wrangling and Step-wise Regression
+### Breast Cancer Wisconsin in R 2.R - R Studio file with data wrangling and Step-wise Regression created by Eno Chen and Sherlin Whaley
 
 
 ### breastcancerwisconsin (2).ipynb - Jupyter Notebook file with Machine Learning techniques (Random Forest & K Fold Cross Validation) created by Eno Chen and Sherlin Whaley
