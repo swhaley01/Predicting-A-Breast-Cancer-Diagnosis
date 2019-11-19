@@ -1,3 +1,5 @@
+## Credit:  Eno Chen & Sherlin Whaley, Bethel School of Techonology 2019
+
 library(IDPmisc)
 library(dplyr)
 library(rcompanion)
